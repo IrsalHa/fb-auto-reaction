@@ -1,4 +1,4 @@
-# Bot Auto Reaction Feed/Home Facebook(FB) 2021
+# Bot Auto Reaction Feed/Home (beranda) Facebook(FB) 2021
 ![Alt Text](https://github.com/IrsalHa/fb-auto-reaction/blob/main/pre.gif?raw=true)
 <br>
 <b> Open Terminal / Termux <br>
@@ -11,3 +11,7 @@ How to install:</b><br>
 `4.npm install`<br>
 `5.node react `<br>
 `6.FINISH`
+
+
+Tag:
+#script #sourcecode #sc
