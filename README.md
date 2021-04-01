@@ -1,5 +1,6 @@
 # Bot Auto Reaction Feed/Home Facebook(FB) 2021
-
+![Alt Text](https://github.com/IrsalHa/fb-auto-reaction/blob/main/pre.gif?raw=true)
+<br>
 <b> Open Terminal / Termux <br>
 U can do this on windows but i dont have windows feel free to ask me
 <br>
