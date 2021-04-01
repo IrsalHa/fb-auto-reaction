@@ -1,0 +1,24 @@
+{
+  "name": "fblike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "prompts": "^2.4.0",
+    "puppeteer": "^8.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.6",
+    "qs": "^6.10.1"
+  },
+  "devDependencies": {}
+}
