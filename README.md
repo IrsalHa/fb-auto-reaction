@@ -1,4 +1,4 @@
-# Bot Auto Reaction Feed/Home (beranda) Facebook(FB) 2021
+# Bot Auto Reaction Feed/Home (beranda) Facebook(FB)
 ![Alt Text](https://github.com/IrsalHa/fb-auto-reaction/blob/main/pre.gif?raw=true)
 <br>
 <b> Open Terminal / Termux / CMD <br>
