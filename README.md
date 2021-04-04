@@ -23,11 +23,10 @@ How to install:</b><br>
 `8.cd fb-auto-reaction` <br>
 `9.npm install`<br>
 `10.node react `<br>
-`11.FINISH`
+`11.FINISH`<br>
 <hr>
 
 
-<hr>
 <b>For Windows/Linux/Mac<br>
 How to install:</b><br>
 `Open Terminal / CMD`<br>
